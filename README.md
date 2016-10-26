@@ -66,4 +66,10 @@
 ----------
 
 `/count/[int:article_id]`  统计某个文章从 indexbox 平台跳转的次数
+----------
 
+## 部署方式
+
+前提条件：安装好 bee 和 beego 
+git clone xxx
+bee run 
