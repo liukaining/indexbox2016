@@ -71,5 +71,9 @@
 ## 部署方式
 
 前提条件：安装好 bee 和 beego 
+
+
 git clone xxx
+
+
 bee run 
